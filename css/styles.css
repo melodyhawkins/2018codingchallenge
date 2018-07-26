@@ -1,0 +1,32 @@
+.bg-color{
+  background-color: #90ee90;
+  border-radius: 2%;
+  display: inline-block;
+  margin-left: 1.2em;
+  width: 81.2em;
+}
+
+.pills a{
+  color: #800080;
+}
+
+.j-btn{
+  color: #800080;
+  background-color: #90ee90;
+}
+.jumbotron{
+  background-image: url("../img/jumbotron.jpg");
+  background-size:cover;
+  color: #800080;
+  height: 50em;
+}
+.purple-text{
+  color:#800080;
+}
+
+.carousel-caption{
+  font-family: "Lato";
+  font-size: 2em;
+  letter-spacing: 2px;
+  font-weight: 400;
+}
